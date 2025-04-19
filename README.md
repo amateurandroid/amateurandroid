@@ -7,8 +7,7 @@
 - 🎓 MAC Student at **Wilfrid Laurier University**, passionate about scalable full-stack development.
 - 🔬 Interests: **REST APIs**, **Machine Learning**, **Cloud**, and **DevOps**.
 - 💼 Past internships in full-stack development, backend engineering, and system optimization.
-- 📫 Reach me at **dhil0380@mylaurier.ca** | [LinkedIn](https://www.linkedin.com/in/ishaan-dhillon-080182235/)  
-- 🌐 Portfolio: *Coming soon!*
+- 📫 Reach me at **dhil0380@mylaurier.ca** | [LinkedIn](https://www.linkedin.com/in/ishaan-dhillon-080182235/)
 
 ---
 
