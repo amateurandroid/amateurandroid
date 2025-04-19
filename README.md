@@ -12,7 +12,7 @@
 
 ---
 
-### 💼 Work Experience
+### Work Experience
 
 - **Software Developer Intern @ Gearten Technologies**  
   *Node.js, Redis, Agile, REST APIs*
@@ -22,7 +22,7 @@
 
 ---
 
-### 📂 Projects
+### Projects
 
 - **Real-Time Crypto Tracker**  
   *React.js, WebSockets, Express.js*
@@ -35,7 +35,7 @@
 
 ---
 
-### 🛠️ Skills & Tools
+### Skills & Tools
 
 **Languages:** JavaScript, Python, Java, PHP, C++  
 **Frameworks & Libraries:** React.js, Next.js, Node.js, Express, Angular, HTML/CSS  
@@ -44,7 +44,7 @@
 
 ---
 
-### 🔗 Let's Connect!
+### Let's Connect!
 
 <p align="center">
   <a href="mailto:dhil0380@mylaurier.ca"><img src="https://img.shields.io/badge/Email-Dhil0380@mylaurier.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
