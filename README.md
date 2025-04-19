@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ishaanpreet Singh Dhillon</h1>
+<h1 align="center">Hi 👋, I'm Ishaan Dhillon</h1>
 <h3 align="center">🚀 Master of Applied Computing Student | Full-Stack Developer | Tech Enthusiast</h3>
 
 ---
