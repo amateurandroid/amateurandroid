@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ishaanpreet Singh Dhillon</h1>
+<h3 align="center">🚀 Master of Applied Computing Student | Full-Stack Developer | Tech Enthusiast</h3>
 
-<!--
-**amateurandroid/amateurandroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
+- 🎓 MAC Student at **Wilfrid Laurier University**, passionate about scalable full-stack development.
+- 🔬 Interests: **REST APIs**, **Machine Learning**, **Cloud**, and **DevOps**.
+- 💼 Past internships in full-stack development, backend engineering, and system optimization.
+- 📫 Reach me at **dhil0380@mylaurier.ca** | [LinkedIn](https://www.linkedin.com/in/ishaan-dhillon-080182235/)  
+- 🌐 Portfolio: *Coming soon!*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 Work Experience
+
+- **Gearten Technologies**  
+  *Node.js, Redis, Agile, REST APIs*
+
+- **TechCurators Pvt Ltd**  
+  *React.js, JWT, Figma, Unit Testing*
+
+---
+
+### 📂 Projects
+
+- **Real-Time Crypto Tracker**  
+  *React.js, WebSockets, Express.js*
+
+- **Kicks – E-commerce App**  
+  *Next.js, MongoDB, Stripe API*
+
+- **Uber Eats Recommendation System**  
+  *Python, TensorFlow, Scikit-learn*
+
+---
+
+### 🛠️ Skills & Tools
+
+**Languages:** JavaScript, Python, Java, PHP, C++  
+**Frameworks & Libraries:** React.js, Next.js, Node.js, Express, Angular, HTML/CSS  
+**Tools:** Git, Docker, MongoDB, SQL, PostgreSQL, MySQL, CI/CD  
+**Concepts:** REST APIs, Authentication, Debugging, Agile, Testing, Performance Optimization
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amateurandroid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amateurandroid&theme=tokyonight" alt="Streak Stats"/>
+</p>
+
+---
+
+### 🔗 Let's Connect!
+
+<p align="center">
+  <a href="mailto:dhil0380@mylaurier.ca"><img src="https://img.shields.io/badge/Email-Dhil0380@mylaurier.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ishaan-dhillon-080182235/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/amateurandroid"><img src="https://img.shields.io/badge/GitHub-amateurandroid-black?style=for-the-badge&logo=github"/></a>
+</p>
