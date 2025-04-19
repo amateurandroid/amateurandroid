@@ -14,10 +14,10 @@
 
 ### 💼 Work Experience
 
-- **Gearten Technologies**  
+- **Software Developer Intern @ Gearten Technologies**  
   *Node.js, Redis, Agile, REST APIs*
 
-- **TechCurators Pvt Ltd**  
+- **Software Developer Intern @ TechCurators Pvt Ltd**  
   *React.js, JWT, Figma, Unit Testing*
 
 ---
