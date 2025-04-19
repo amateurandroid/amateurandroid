@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ishaan Dhillon</h1>
-<h3 align="center">🚀 Master of Applied Computing Student | Full-Stack Developer | Tech Enthusiast</h3>
+<h1 align="center">Hi, I'm Ishaan Dhillon</h1>
+<h3 align="center">Master of Applied Computing Student | Full-Stack Developer | Tech Enthusiast</h3>
 
 ---
 
-### 🧠 About Me
+### About Me
 - 🎓 MAC Student at **Wilfrid Laurier University**, passionate about scalable full-stack development.
 - 🔬 Interests: **REST APIs**, **Machine Learning**, **Cloud**, and **DevOps**.
 - 💼 Past internships in full-stack development, backend engineering, and system optimization.
