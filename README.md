@@ -23,7 +23,8 @@
 ### Let's Connect!
 
 <p align="center">
-  <a href="mailto:dhil0380@mylaurier.ca"><img src="https://img.shields.io/badge/Email-Dhil0380@mylaurier.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ishaandhillonn/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://github.com/amateurandroid"><img src="https://img.shields.io/badge/GitHub-amateurandroid-black?style=for-the-badge&logo=github"/></a>
+  <a href="mailto:dhil0380@mylaurier.ca"><img src="https://img.shields.io/badge/Email-DHIL0380%40mylaurier.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ishaan-dhillon-080182235/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/amateurandroid"><img src="https://img.shields.io/badge/GitHub-amateurandroid-black?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
