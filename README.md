@@ -11,29 +11,6 @@
 
 ---
 
-### Work Experience
-
-- **Software Developer Intern @ Gearten Technologies**  
-  *Node.js, Redis, Agile, REST APIs*
-
-- **Software Developer Intern @ TechCurators Pvt Ltd**  
-  *React.js, JWT, Figma, Unit Testing*
-
----
-
-### Projects
-
-- **Real-Time Crypto Tracker**  
-  *React.js, WebSockets, Express.js*
-
-- **Kicks – E-commerce App**  
-  *Next.js, MongoDB, Stripe API*
-
-- **Uber Eats Recommendation System**  
-  *Python, TensorFlow, Scikit-learn*
-
----
-
 ### Skills & Tools
 
 **Languages:** JavaScript, Python, Java, PHP, C++  
@@ -47,6 +24,6 @@
 
 <p align="center">
   <a href="mailto:dhil0380@mylaurier.ca"><img src="https://img.shields.io/badge/Email-Dhil0380@mylaurier.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ishaan-dhillon-080182235/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/ishaandhillonn/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://github.com/amateurandroid"><img src="https://img.shields.io/badge/GitHub-amateurandroid-black?style=for-the-badge&logo=github"/></a>
 </p>
