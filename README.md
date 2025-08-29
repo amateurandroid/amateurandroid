@@ -11,12 +11,13 @@
 
 ---
 
-### Skills & Tools
+### 🛠️ Skills & Tools
 
-**Languages:** JavaScript, Python, Java, PHP, C++  
-**Frameworks & Libraries:** React.js, Next.js, Node.js, Express, Angular, HTML/CSS  
-**Tools:** Git, Docker, MongoDB, SQL, PostgreSQL, MySQL, CI/CD  
-**Concepts:** REST APIs, Authentication, Debugging, Agile, Testing, Performance Optimization
+**Languages:** C++, Python, JavaScript, TypeScript, Java, PHP  
+**Frameworks & Libraries:** Node.js, Express.js, React.js, Next.js, HTML, CSS, Angular  
+**Tools:** Git, Docker, AWS (Basics), MongoDB, SQL (MySQL, PostgreSQL), CI/CD Pipelines  
+**Concepts:** Data Structures & Algorithms, OOP, REST APIs, TCP/IP, Security Best Practices, Agile/Scrum, Code Reviews
+
 
 ---
 
