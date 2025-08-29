@@ -30,15 +30,3 @@ Git, Docker, CI/CD Pipelines
 Data Structures & Algorithms, OOP, REST APIs, TCP/IP, Security Best Practices, Agile/Scrum, Code Reviews  
 
 ---
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="mailto:ishaan.dhillon02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ischaan.dhillon02%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ishaan-dhillon-080182235/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/amateurandroid">
-    <img src="https://img.shields.io/badg
