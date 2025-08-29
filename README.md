@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Ishaan Dhillon</h1>
 <h3 align="center">Master of Applied Computing Student @ Wilfrid Laurier University</h3>
-<h4 align="center">Full-Stack Developer • Cloud & Data Enthusiast • Open to Opportunities in 2025</h4>
+<h4 align="center">Software Developer • Full-Stack Developer </h4>
 
 ---
 
@@ -8,13 +8,12 @@
 - 🎓 Graduate student in **Applied Computing** at Wilfrid Laurier University.  
 - 💡 Passionate about **building scalable web apps, optimizing backend systems, and exploring cloud solutions**.  
 - 💼 Internship experience in **full-stack development, backend engineering, and system optimization**.  
-- 🌱 Currently sharpening skills in **Data Structures, Algorithms, and Cloud Infrastructure**.  
-- 📫 Reach me at **[ishaan.dhillon02@gmail.com](mailto:ishaan.dhillon02@gmail.com)** or connect on [LinkedIn](https://www.linkedin.com/in/ishaan-dhillon-080182235/).
+- 🌱 Focused on improving proficiency in **Data Structures & Algorithms, Full-Stack Developement & System Design**.  
+- 📫 Reach me at **[ishaandhillon02@gmail.com](mailto:ishaan˙dhillon02@gmail.com)** or connect on [LinkedIn](https://www.linkedin.com/in/ishaan-dhillon-080182235/).
 
 ---
 
 ## 🛠 Skills & Tools
-
 **Languages**  
 C++, Python, JavaScript, TypeScript, Java, PHP  
 
